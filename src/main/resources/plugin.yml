@@ -1,0 +1,15 @@
+name: UltimateJobs
+author: Sothis_
+version: 1.0
+main: fr.sothis.ultimatejobs.Main
+api-version: 1.13
+commands:
+  job:
+    description: ""
+    usage: ""
+  testeco:
+    description: ""
+    usage: ""
+  testperms:
+    description: ""
+    usage: ""
